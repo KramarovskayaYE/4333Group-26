@@ -35,6 +35,8 @@
                     <RowDefinition />
                     <RowDefinition />
                     <RowDefinition />
+                    <RowDefinition >
+                       <Button Content="Инфо от Тимура" Click="Button_Timur_Click" Grid.Row="6"/> 
                     <RowDefinition />
                     <RowDefinition />
                     <RowDefinition />

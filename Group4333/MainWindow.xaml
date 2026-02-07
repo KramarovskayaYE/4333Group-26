@@ -36,7 +36,7 @@
                     <RowDefinition />
                     <RowDefinition />
                     <RowDefinition >
-                       <Button Content="Инфо от Тимура" Click="Button_Timur_Click" Grid.Row="6"/> 
+                       <Button Content="Инфо от Яны" Click="Button_Yana_Click" Grid.Row="6"/> 
                     <RowDefinition />
                     <RowDefinition />
                     <RowDefinition />

@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Yana4333"
         mc:Ignorable="d"
+<<<<<<< HEAD
         Title="Инструментальные Средства Разработки Программного Обеспечения" 
         Height="700" 
         Width="800">
@@ -61,5 +62,11 @@
 
             </Grid>
         </Grid>
+=======
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="259,217,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click"/>
+
+>>>>>>> fab330d6c430562f043cb7203335069f609989e8
     </Grid>
 </Window>

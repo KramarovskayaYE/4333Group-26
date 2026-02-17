@@ -27,6 +27,7 @@ namespace Yana4333
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+<<<<<<< HEAD
             
         }
 
@@ -35,6 +36,9 @@ namespace Yana4333
             var infoWindow = new _4333_kramarovskaya();
             infoWindow.Owner = this;
             infoWindow.ShowDialog();
+=======
+
+>>>>>>> fab330d6c430562f043cb7203335069f609989e8
         }
     }
 }
